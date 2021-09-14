@@ -10,6 +10,10 @@
     git clone git@github.com:jarold87/secret-server-backend.git
     git clone git@github.com:jarold87/secret-server-frontend.git
     
+OR run download.sh script
+
+    sh download.sh
+    
 **3) Modify the docker-compose config if you needed**
 
 - .env - ROOT_DIRECTORY
